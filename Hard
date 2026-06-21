@@ -1,7 +1,7 @@
 -- Last Game Info.
 -- Loadout("Scout", "None", "None", "None", "None")
 -- Mode("Hardcore")
--- GameInfo("Crossroads", {})
+-- GameInfo("Wrecked Battlefield", {})
 
 place(2.000, 3.600, -5.000, "Scout", 0)
 upgrade(2.000, 3.600, -5.000, 0)
